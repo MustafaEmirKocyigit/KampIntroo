@@ -34,7 +34,7 @@ namespace ClassIntroo
 
             }
 
-            Console.WriteLine("Hello World!");
+            
         }
     }
 
